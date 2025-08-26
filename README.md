@@ -14,3 +14,8 @@ C_R1=[0,1,4,7]
 c_clas, c_alc, mej = compare_bounds(X,Y,[C_R1],p=2,prob=prob)
 print(c_clas, c_alc, mej)  
 # Esperado: 1.0, 0.4444, 55.56%
+
+### Ejemplo gaussiana (modelo)
+Script: [`EJEMPLOS/gaussian_pi.py`](EJEMPLOS/gaussian_pi.py)
+
+Resultado típico:
