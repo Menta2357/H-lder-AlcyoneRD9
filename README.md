@@ -14,12 +14,3 @@ C_R1=[0,1,4,7]
 c_clas, c_alc, mej = compare_bounds(X,Y,[C_R1],p=2,prob=prob)
 print(c_clas, c_alc, mej)  
 # Esperado: 1.0, 0.4444, 55.56%
-
----
-
-## 🔹 Paso 3. Añadir carpeta `figures/`
-1. Sube la imagen `comparativa.png` generada con el script de ejemplos.  
-2. Edita `README.md` para mostrarla:  
-
-```markdown
-![Comparación](figures/comparativa.png)
