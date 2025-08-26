@@ -130,6 +130,10 @@ Notas finales
 	•	AlcyoneRD nunca es peor que Hölder clásico; es igual sin estructura y estrictamente mejor con ella.
 	•	Las mejoras reales en los ejemplos del repo coinciden con la teoría (33–56 %).
 ---
+## Documentos completos
 
+📄 Texto formal (PDF):
+- [Español](docs/alcyoneRD9.pdf)
+- [English](docs/alcyoneRD9_VE.pdf)
 
 
